@@ -184,7 +184,7 @@ All bytes-per-unit assumptions live in
   | Pro | $500 | 5 TB included | 500 TB included | SSO + RBAC, priority support |
   | Enterprise | custom | $0.10/GB pay-as-you-go | $1/TB pay-as-you-go | dedicated Slack + TAM, SLA, HIPAA/SOC2, extendable retention |
 
-  Worked Enterprise example from Bronto: 1 GB ingest + 300 GB search =
+  Worked Enterprise example: 1 GB ingest + 300 GB search =
   $0.10 + $0.30 = **$0.40**.
 
   Projector picks the cheapest total (ingest + search) and shows all three side by side.

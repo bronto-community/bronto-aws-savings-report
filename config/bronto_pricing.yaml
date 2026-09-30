@@ -1,4 +1,4 @@
-# Bronto.io rate card — source: https://bronto.io/pricing (verified 2026-05-28).
+# Bronto.io rate card — source: https://bronto.io/pricing (verified 2026-09-30).
 # Ingest pricing is uniform across logs, metrics, and traces. Search is
 # included on every plan with overage at $1/TB.
 
@@ -25,7 +25,7 @@ plans:
     included_tb: 5
     search_included_tb: 500
   # Enterprise: pay-as-you-go. $0.10/GB ingest, $1/TB search, no
-  # included allowance on either. Worked example from Bronto:
+  # included allowance on either. Worked example:
   # 1 GB ingest + 300 GB search = $0.10 + $0.30 = $0.40.
   # Non-price perks (dedicated Slack + TAM, SLA, HIPAA/SOC2 on
   # request, extendable retention, custom MSA) are listed in the
